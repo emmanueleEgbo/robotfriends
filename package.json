@@ -1,6 +1,6 @@
 {
   "name": "robofriends",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://etechpro.github.io/react-gh-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,7 +31,4 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
-  }
 }
