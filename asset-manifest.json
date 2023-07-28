@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/etechpro/robotfriends.git/static/css/main.285ecf35.css",
+    "main.js": "/etechpro/robotfriends.git/static/js/main.0c51834d.js",
+    "static/media/SEGA.woff": "/etechpro/robotfriends.git/static/media/SEGA.d1daf403bf2ac66670ae.woff",
+    "index.html": "/etechpro/robotfriends.git/index.html",
+    "main.285ecf35.css.map": "/etechpro/robotfriends.git/static/css/main.285ecf35.css.map",
+    "main.0c51834d.js.map": "/etechpro/robotfriends.git/static/js/main.0c51834d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.285ecf35.css",
+    "static/js/main.0c51834d.js"
+  ]
+}
